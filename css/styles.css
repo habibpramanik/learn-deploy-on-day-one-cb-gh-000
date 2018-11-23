@@ -132,7 +132,9 @@ a:visited {
   display: block;
   height: 400px;
 }
-
+#aamir-kalimi-card{
+  background-image: url("https://imgur.com/a/E4DlByb"); 
+}
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
