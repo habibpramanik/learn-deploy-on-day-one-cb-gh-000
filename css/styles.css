@@ -133,7 +133,10 @@ a:visited {
   height: 400px;
 }
 #aamir-kalimi-card{
-  background-image: url("https://imgur.com/a/E4DlByb"); 
+  background-image: url("https://imgur.com/a/E4DlByb");
+}
+#aamir-kalimi-cover{
+  background-image: url("https://imgur.com/hS03WwJ");
 }
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
